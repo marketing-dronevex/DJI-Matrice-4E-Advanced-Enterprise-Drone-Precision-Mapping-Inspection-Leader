@@ -1,2 +1,4 @@
-# DJI-Matrice-4E-Advanced-Enterprise-Drone-Precision-Mapping-Inspection-Leader
-https://dronevex.in/product/dji-matrice-4e-advanced-enterprise-drones/
+DJI Matrice 4E Advanced Enterprise Drone: Precision Mapping & Inspection Leader
+
+The DJI Matrice 4E Advanced Enterprise Drone redefines professional surveying with its triple-camera system featuring a 20MP 4/3 CMOS wide-angle, 48MP medium telephoto, and 48MP telephoto lens delivering 112x hybrid zoom and factory-calibrated distortion correction for survey-grade mapping. RTK positioning achieves 1cm accuracy while AI-powered vehicle/vessel detection and Smart Track enable autonomous inspection workflows. With 49 minutes flight time, 21 m/s max speed, 5-directional oblique capture, and O4 Enterprise transmission up to 25km with 4G backup, it excels in construction, mining, infrastructure inspection, and geospatial applications requiring centimeter-level precision and operational reliability.​
+Explore more: https://dronevex.in/product/dji-matrice-4e-advanced-enterprise-drones/
